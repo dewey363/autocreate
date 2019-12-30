@@ -33,10 +33,3 @@ goframe: latest<br/>
 1:bootstrap（已经全自动生成了JS和html)<br/>
 2:elementui Vue(已经全自动生成了Vue)<br/>
 
-感谢大家支持，有钱的撒几毛，没钱的点个赞，有问题的提issue<br/>
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1225/172511_13869dda_1927330.jpeg "donate.jpg")
-
-感谢大佬<br/>
-| Name | Channel | Amount | Comment <br/>
-|---|---|--- | ---<br/>
-|李超|wechat|￥66.00 |<br/>
